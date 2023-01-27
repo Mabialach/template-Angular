@@ -1,0 +1,15 @@
+
+.product-item :hover{
+    background-color: black;
+    color: white;
+}
+.product-item{
+    text-align: center;
+    border: 0.1px solid #ccc;
+    width: 300px;
+    cursor: pointer;
+}
+.product-price{
+    display: flex;
+    gap: 50px;
+}
